@@ -1,4 +1,4 @@
-# WP Audio Player
+# wp_remote_post
 * Contributors: [tommcfarlin](http://profiles.wordpress.org/tommcfarlin)
 * Requires at least: 3.5
 * Tested up to: 3.5.2
